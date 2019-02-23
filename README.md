@@ -11,6 +11,8 @@ MVP TodoList
 - [ ] Role-Based Authorization
 - [ ] Security
 - [ ] Banking Logic
+- [ ] Azure DevOps, AWS Elastic Beanstalk
+- [ ] Unit Testing, Test-Driven Development (TDD)
 
 Production TodoList:
 - [ ] Authentication with JWT
