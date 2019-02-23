@@ -5,6 +5,14 @@ Kubernetes, EKS, Terraform, ASP.NET Core 2.2, for banking service.
 
 ### TodoList
 
+MVP TodoList
+- [ ] ASP.NET MVC 5 App
+- [ ] Facebook, Twitter, Google, Email Confirmation, 2FA
+- [ ] Role-Based Authorization
+- [ ] Security
+- [ ] Banking Logic
+
+Production TodoList:
 - [ ] Authentication with JWT
 - [ ] Register with JWT
 - [ ] React/Redux Application
