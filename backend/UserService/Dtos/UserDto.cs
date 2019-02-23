@@ -11,7 +11,8 @@ never included in responses from the web api.
 
 namespace WebApi.Dtos
 {
-    public class UserDto {
+    public class UserDto
+    {
         public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
